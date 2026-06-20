@@ -43,5 +43,7 @@ I am a hardware enthusiast and developer bridging the gap between electronics, e
 
 ---
 ## Profile Card
-
-(https://mulearn.org/embed/rank/vimaljohnmv@mulearn)
+<img
+    src="https://mulearn.org/embed/rank/vimaljohnmv@mulearn"
+    width="400px">
+</img>

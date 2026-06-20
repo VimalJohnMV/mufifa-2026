@@ -30,8 +30,8 @@ I am a hardware enthusiast and developer bridging the gap between electronics, e
 
 * **History of Open Source and Collaborative Contributions:** Earned an approved project contribution under the FOSSEE (Free/Libre and Open Source Software for Education) initiative at IIT Bombay for eSim. Also contributed to collaborative proof-of-work within μLearn initiatives, driving technical engagement and exploring open-source organizational tools.
 * **History of Community Engagement:** Highly active in fostering technical communities. Led online tech talk sessions and am currently executing the field-based selection task for the Solve4Public Lab program.
-* **Domain Profiles:** * **GitHub:** *[\[Insert your GitHub link here\]](https://github.com/VimalJohnMV)*
-    * **FOSSEE eSim Contribution:** *[\[Insert link to your approved project here\]](https://esim.fossee.in/circuit-simulation-project/esim-circuit-simulation-run/801)*
+* **Domain Profiles:** * **GitHub:** *[\[Github\]](https://github.com/VimalJohnMV)*
+    * **FOSSEE eSim Contribution:** *[\[eSim Files\]](https://esim.fossee.in/circuit-simulation-project/esim-circuit-simulation-run/801)*
 * **Tools, Workflows & Automations:** Experienced in experimenting with zero-cost automation pipelines and open-source tools (like LibreOffice macros) to build lean organizational workflows without overhead budget constraints.
 * **Public Portfolio & Recognition:** Currently structuring an IEEE CS Junior grant proposal to enhance women's participation in STEM. Also designing creative, gamified tech challenges—such as web-based lore login puzzles—to boost student engagement.
 * **Education and Proof of Work:** Honours degree student focusing on Linear Algebra and core electronics at GEC Kozhikode. 
@@ -43,5 +43,7 @@ I am a hardware enthusiast and developer bridging the gap between electronics, e
 
 ---
 ## Profile Card
-
-<imag scr ="https://mulearn.org/embed/rank/vimaljohnmv@mulearn" width="400px"></img>
+<img
+    src="https://mulearn.org/embed/rank/vimaljohnmv@mulearn"
+    width="400px">
+</img>
